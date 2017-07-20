@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... - [XPermissionUtils]'" />
-    <option name="defaultScopeName" value="Directory '... - [XPermissionUtils]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [XPermissionUtils]'" />
+    <option name="customScope" value="Project 'xm-android-sdk-fork'" />
+    <option name="defaultScopeName" value="Project 'xm-android-sdk-fork'" />
+    <option name="SEARCH_SCOPE" value="Project 'xm-android-sdk-fork'" />
   </component>
 </application>
