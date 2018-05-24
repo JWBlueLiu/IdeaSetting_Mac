@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'imkit'" />
     <option name="defaultScopeName" value="Module 'imkit'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'imkit'" />
     <recentFileMasks>
       <mask>*.properties</mask>
