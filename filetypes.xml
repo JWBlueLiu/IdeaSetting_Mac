@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="plugin_id" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
