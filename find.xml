@@ -1,38 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.</mask>
-      <mask>.g</mask>
-      <mask>.gr</mask>
-      <mask>.gra</mask>
-      <mask>*.xm'l</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.b</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.xm</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.x</mask>
-      <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.java</mask>
-      <mask>*.gradle</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Directory '... [xm-android-sdk-fork]'" />
+    <option name="defaultScopeName" value="Directory '... [xm-android-sdk-fork]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [xm-android-sdk-fork]'" />
   </component>
 </application>
