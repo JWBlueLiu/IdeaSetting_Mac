@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../newhome/src/main/java/com/meituan/retail/c/android/newhome/components/whattoeat [newhome]'" />
+    <option name="defaultScopeName" value="Directory '.../newhome/src/main/java/com/meituan/retail/c/android/newhome/components/whattoeat [newhome]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '.../newhome/src/main/java/com/meituan/retail/c/android/newhome/components/whattoeat [newhome]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
