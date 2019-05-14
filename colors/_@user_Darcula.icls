@@ -1,11 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-14T14:25:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-05-14T14:30:35</property>
+    <property name="modified">2019-05-14T14:33:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
