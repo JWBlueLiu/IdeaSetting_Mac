@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="plugin_id" type="PLAIN_TEXT" />
       <mapping pattern="goods_detail_divider_sku_feature" type="PLAIN_TEXT" />
+      <mapping pattern="MRNWhiteListCreator.java" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
