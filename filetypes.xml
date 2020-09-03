@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="plugin_id" type="PLAIN_TEXT" />
       <mapping pattern="goods_detail_divider_sku_feature" type="PLAIN_TEXT" />
       <mapping pattern="MRNWhiteListCreator.java" type="PLAIN_TEXT" />
