@@ -3,6 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.33541666666666664" />
+        <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-0.0.0.80.aar/5daa12d93034aec317a613cbf74456f5/res/drawable/ar_loading_img.xml" value="0.17314814814814813" />
+        <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-0.0.0.80.aar/5daa12d93034aec317a613cbf74456f5/res/drawable/ar_page_tip_bg.xml" value="0.17314814814814813" />
+        <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-0.0.0.80.aar/5daa12d93034aec317a613cbf74456f5/res/layout/activity_ar_support_capture.xml" value="0.24864130434782608" />
+        <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-0.0.0.80.aar/5daa12d93034aec317a613cbf74456f5/res/layout/scan_progress_dialog.xml" value="0.16893115942028986" />
+        <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-0.0.0.80.aar/5daa12d93034aec317a613cbf74456f5/res/layout/scan_qr_layout.xml" value="0.16893115942028986" />
         <entry key="../../../.gradle/caches/transforms-1/files-1.1/library-5.17.7.aar/106df889830dcea3ea7f7010cd5ad654/res/layout/passport_fragment_policy_dialog.xml" value="0.24583333333333332" />
         <entry key="dev/src/main/res/layout/activity_dev.xml" value="0.17760416666666667" />
       </map>
