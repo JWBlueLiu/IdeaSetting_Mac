@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="MRNWhiteListCreator.java" type="PLAIN_TEXT" />
+      <mapping pattern="CollectionStatisticsUtil" type="PLAIN_TEXT" />
       <mapping pattern="plugin_id" type="PLAIN_TEXT" />
       <mapping pattern="goods_detail_divider_sku_feature" type="PLAIN_TEXT" />
-      <mapping pattern="MRNWhiteListCreator.java" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="skin_img_mine_header_bg" type="XML" />
     </extensionMap>
   </component>
